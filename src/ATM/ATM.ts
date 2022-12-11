@@ -6,7 +6,7 @@ export class ATM {
      public static async main ():Promise<void>{
         
          
-     }
+     } //atm
 
     //  public static async mainMenuPrompt(bank:Bank):Promise<User>{
     //       let authenticateduser:User;
